@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),o=t(2);var r=()=>c.a.createElement("div",{className:"App"},c.a.createElement("h1",null,"Welcome to p2"));Object(o.render)(c.a.createElement(r,null),document.getElementById("root"))}},[[3,1,2]]]);
